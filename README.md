@@ -1,6 +1,6 @@
 # CV: Face Trainer
 
-This small python application uses the modules [Face Extractor]() and [Face Detector]() to detect and save face images as labeled training set in `data/training/LABEL_HASH`.
+This small python application uses the modules [Face Extractor](https://github.com/n1g1r1/cv-module-face-extractor/) and [Face Detector](https://github.com/n1g1r1/cv-module-face-detector/) to detect and save face images as labeled training set in `data/training/LABEL_HASH`.
 
 ## Usage
 
