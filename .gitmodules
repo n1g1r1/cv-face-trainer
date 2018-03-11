@@ -1,6 +1,0 @@
-[submodule "modules/face_detector"]
-	path = modules/face_detector
-	url = https://github.com/n1g1r1/cv-module-face-detector
-[submodule "modules/face_extractor"]
-	path = modules/face_extractor
-	url = https://github.com/n1g1r1/cv-module-face-extractor
